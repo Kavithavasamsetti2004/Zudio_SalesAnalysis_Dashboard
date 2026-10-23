@@ -48,5 +48,9 @@ Presents operating-hour categories for comparing store schedules.
 - Excel dashboard design
 - Data visualization
 
+## 🖼️ Dashboard Preview
+![Zudio Sales Dashboard](Zudio_dashboard.png)
+
+
 ## 👩‍💻 Author
 Kavitha Vasamsetti
