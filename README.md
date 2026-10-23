@@ -49,7 +49,7 @@ Presents operating-hour categories for comparing store schedules.
 - Data visualization
 
 ## 🖼️ Dashboard Preview
-![Zudio Sales Dashboard](Zudio_Dashboard.png)
+![Zudio Sales Dashboard](Zudio_Dashboard.png.png)
 
 
 ## 👩‍💻 Author
